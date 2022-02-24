@@ -1,4 +1,4 @@
-Rem First program
+Rem "First program"
 Screen 12
 
 Do
